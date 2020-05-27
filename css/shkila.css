@@ -1,0 +1,479 @@
+
+.semka{
+	margin: 0 auto;
+	width: 90%;
+	height: 40%;
+	border: solid black 1.5px;
+	border-radius: 5px;
+	background: cyan;
+	z-index: 1
+}
+
+.doro{
+	margin-top: 26.4%;
+	height:200px;
+	width: 100%;
+	background:  grey ;
+	position: relative;
+}
+.har1{
+	height: 40px;
+	width:100%;
+	background: #8B4513;
+	position: absolute;
+	margin-top: 40px;
+}
+
+	.har2{
+	height: 40px;
+	width: 100%;
+	background: #A0522D	;
+	margin-top: 80px;
+	position: absolute;
+}
+.har3{
+	height: 40px;
+	width:100%;
+	background: #D2691E	;
+	margin-top: 120px;
+	position: absolute;
+}
+.har4{
+	height: 40px;
+	width: 100%;
+	background: #FF4500	;
+	margin-top: 160px;
+	position: absolute;
+	border-radius: 5px;
+}
+.holm{
+	height: 50px;
+	width: 350px;
+	position: relative;
+	left:0px ;
+	background: green;
+	border-radius: 0px 0px 90px 0px;
+}
+.budi{
+height: 250px;
+width: 125px;
+background: green;
+position: relative;
+top: -117%;
+left: 35%;
+}
+.budi2{
+height: 200px;
+width: 125px;
+background: green;
+position: relative;
+top: -72.3%;
+left: 65%;
+}
+.t1{
+	height:35px;
+	width:35px;
+	border: solid 3px ;
+}
+.we1{
+	height:35px;
+	width: 35px;
+	position: absolute;
+	left: 75px;
+	top: 10px;
+}
+.we2{
+	height:35px;
+	width: 35px;
+	position: absolute;
+	left: 75px;
+	top: 55px;
+}
+.we3{
+	height:35px;
+	width: 35px;
+	position: absolute;
+	left: 75px;
+	top: 100px;
+}
+.w1{
+	height:35px;
+	width: 35px;
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+.w2{
+	height: 35px;
+	width: 35px;
+	position: absolute;
+	left: 10px;
+	top: 55px;
+}
+.w3{
+	height:35px;
+	width: 35px;
+	position: absolute;
+	left: 10px;
+	top: 100px;
+}
+.w4{
+	height: 35px;
+	width: 35px;
+	position:absolute;
+	left: 10px;
+	top: 145px;
+}
+.dah2{
+height: 30px;
+width: 93.75px;
+background: green;
+position:absolute;
+top: -20px;
+left: 15.625px; 
+}
+.d2{
+	height:90px ;
+	width:60px ;
+	position: relative;
+	left:60px ;
+	top:160px; ;
+	background: brown;
+}
+.mus{
+	height: 40px;
+	width: 40px;
+	position:absolute;
+	left:50%;
+	top: 71%; 
+	z-index: 1;
+}
+.dah{
+height: 20px;
+width: 93.75px;
+background: green;
+position: absolute;
+top: -7%;
+left: 13%; 
+}
+.ylinka{
+	height: 120px;
+	width: 120px;
+	position: relative;
+	left: 2%;
+	top: -90%;
+}
+.a1{
+	position: absolute;
+	left:33px ;
+	top:-345% ;
+	width: 0;
+	height: 0;
+	border: 50px solid transparent;
+	border-bottom: 70px solid #008000;
+}
+.a2{
+	position: absolute;
+	left:15px ;
+	top:-340% ;
+	width: 0;
+	height: 0;
+	border: 70px solid transparent;
+	border-bottom: 100px solid #008000;
+}
+.a3{
+	position: absolute;
+	left:5px ;
+	top:-330%;
+	width: 0;
+	height: 0;
+	border: 80px solid transparent;
+	border-bottom: 120px solid #008000;
+	z-index: 11111;
+}
+.palka{
+	height: 50px;
+	width: 20px;
+	position:absolute;
+	left: 75px;
+	top: -167%;
+	background: #67330e;
+	z-index: 11;
+}
+.ylink{
+	height: 150px;
+	width: 150px;
+	position: relative;
+	left: 17%;
+	top:-171.5%;
+	z-index: 100;
+}
+.palka2{
+	height: 80px;
+	width: 20px;
+	background: #67330e;
+	z-index: 2000;
+	position: absolute;
+	left: 30%;
+	top:70.1%;
+	z-index: 11;
+}
+.zelen{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	background: #0ba200;
+	position: absolute;
+	left:-190%; 
+	top: -100%;
+	z-index: 111;
+}
+.s1{
+	height: 20px;
+	width: 20px;
+	position: relative;
+	left: 10px;
+	top: 20px;
+}
+.s2{
+	height: 20px;
+	width: 20px;
+	position: relative;
+	left: -15px;
+	top: 18px;
+}
+.s3{
+	height: 24px;
+	width: 24px;
+	position: relative;
+	left: -50px;
+	top: 50px;
+}
+.s4{
+	height: 28px;
+	width: 28px;
+	position: relative;
+	left: 40px;
+	top: 40px;
+}
+.foto{
+	height: 110px;
+	width: 120px;
+	position: relative;
+	left: 30%;
+	top:32.5%;
+}
+
+.vitrak{
+	height: 300px;
+	width: 200px;
+	position: relative;
+	top:-143%;
+	left: 580%;
+}
+.palocha{
+	height: 170px;
+	width: 20px;
+	position: absolute;
+	left: 90px;
+	top: 120px;
+	background: black;
+	z-index: 1;
+}
+.kru{
+	height: 25px;
+	width: 25px;
+	border-radius: 50%;
+	position: absolute;
+	left: 87px;
+	top: 90px;
+	background: black;
+}
+.krytilka{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	top: 8%;
+	animation: around 15s linear infinite;   
+}
+@keyframes around{
+    
+    0%{transform: rotate(0deg);
+}
+     100%{transform: rotate(1800deg);
+}
+}
+.palka1{
+	height: 100px;
+	width: 15px;
+	position:absolute;
+	left:98px; 
+	top:5px;
+	background: black;
+	transform: rotate(6deg);
+	border-radius: 20px 20px 0px 0px;
+	z-index: 77;
+}
+.palka23{
+	height: 100px;
+	width: 15px;
+	position: absolute;
+	left:132px; 
+	top:75px;
+	background: black;
+	border-radius: 20px 20px 0px 0px;
+	transform:rotate(120deg); 
+	z-index: 77;
+}
+.palka3{
+	height: 100px;
+	width: 15px;
+	position:absolute;
+	left:52px; 
+	top:83px;
+	background: black;
+	border-radius: 0px 0px 20px 20px;
+	transform:rotate(50deg); 
+	z-index: 77;
+}
+.litak{
+	height:40px ;
+	width:120px ;
+	z-index: 5;
+	position: absolute;
+animation: mahafgh 60s infinite;
+
+}
+@keyframes mahafgh{
+0%{
+	position:absolute;
+	top: 52%;
+	right:5%;
+}
+100%{
+	position:absolute;
+	right:87%;
+	top: 50%;
+}
+}
+.h4{
+	height: 110px;
+	width: 110px;
+	z-index: 100;
+	opacity: 0.6;
+	animation: qwerty 100s infinite;
+}
+@keyframes qwerty{
+0%{
+	position: absolute;
+	margin-top: -80%;
+	left: 5%;
+	z-index: 100;
+}
+100%{
+	position: absolute;
+	margin-top: -80%;
+	left:88%;
+	z-index: 100;
+}
+}
+.bok{
+	height: 150px;
+	width: 150px;
+	z-index: 10;
+
+	animation: maha 7s infinite;
+}
+@keyframes maha{
+0%{
+	position: absolute;
+	margin-top: -68%;
+	left: 5%;
+	z-index: 10;
+}
+100%{
+	position: absolute;
+	margin-top: -68%;
+	left:85%;
+	z-index: 10;
+}
+}
+.bok2{
+	height: 100px;
+	width: 100px;
+	z-index: 9;
+	animation: mahap 25s infinite;
+}
+@keyframes mahap{
+0%{
+	position: absolute;
+	margin-top: -66%;
+	left:85%;
+	z-index: 10;
+}
+100%{
+	position: absolute;
+	margin-top: -66%;
+	left: 5%;
+	z-index: 10;
+}
+}
+.h1{
+	height: 110px;
+	width: 110px;
+	z-index: 100;
+	opacity: 0.6;
+	animation: mahaf 40s infinite;
+}
+@keyframes mahaf{
+0%{
+	position: absolute;
+	margin-top: -85%;
+	left:88%;
+	z-index: 100;
+}
+100%{
+	position: absolute;
+	margin-top: -85%;
+	left:5%;
+	z-index: 100;
+}
+}
+.h2{
+	height: 130px;
+	width: 130px;
+	z-index: 1000000;
+	opacity: 0.6;
+	animation: mahafg 100s infinite;
+}
+@keyframes mahafg{
+0%{
+	position: absolute;
+	margin-top: -81%;
+	left:87%;
+	z-index: 100;
+}
+50%{
+	position: absolute;
+	margin-top: -85%;
+	left:41%;
+	z-index: 100;
+}
+100%{
+	position: absolute;
+	margin-top: -85%;
+	left:5%;
+	z-index: 100;
+}
+}
+.sonce{
+	z-index:1;
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	left:77%;
+	margin-top: -86%;
+	z-index: 0;
+}
+
+
